@@ -1,1 +1,1 @@
-# mediakit-css
+# mediakit-os-marketing
